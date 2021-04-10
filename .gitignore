@@ -1,0 +1,6 @@
+
+# esto se puede generar por medio del comando -- npm install -- al descargarlo
+node_modules/
+
+# ignoramos todos los archivos que se generan volatiles
+/salida/*.txt
